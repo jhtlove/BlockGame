@@ -40,7 +40,7 @@ export class BlockComponent implements OnInit {
   }
 
   changeColor(isActive: boolean) {
-   
+
     if (this.isGood) {
       this.clsName = 'blueBlock';
       this.turnService.okNum = this.turnService.okNum - 1;

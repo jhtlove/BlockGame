@@ -17,6 +17,7 @@
   line-height: 30px;
   display: inline-block;
   border: black solid 1px;
+  background-image: url('./assets/.timg.jpg');
 }
 
 .good {
